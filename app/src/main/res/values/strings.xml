@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">speedMeter</string>
+    <string name="time_text">Time</string>
+    <string name="Direction_text">Direction</string>
+    <string name="km">KM/H</string>
+    <string name="allt">Alt</string>
+    <string name="Triptext">Trip</string>
+    <string name="Toptext">Top</string>
+    <string name="average">Avg</string>
+    <string name="Meter">0M</string>
+    <string name="zKm">0KM</string>
+    <string name="seting">setting</string>
+    <string name="newKm">Km</string>
+    <string name="zerokm">0KM/H</string>
+</resources>
